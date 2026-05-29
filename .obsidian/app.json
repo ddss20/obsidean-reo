@@ -1,0 +1,15 @@
+{
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "_assets",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "01-memoria-operativa/sesiones",
+  "showUnsupportedFiles": false,
+  "defaultViewMode": "preview",
+  "foldHeading": false,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": false
+}
