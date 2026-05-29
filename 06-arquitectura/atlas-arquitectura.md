@@ -31,20 +31,20 @@ ATLAS es el orquestador central del sistema de marketing digital para Mario Barr
 │    Vault Obsidian como capa de conocimiento  │
 └──────────────────┬──────────────────────────┘
                    │
-       ┌───────────┼───────────┐
-       ▼           ▼           ▼
-┌──────────┐ ┌──────────┐ ┌──────────┐
-│Insurance │ │ Social   │ │   Web    │
-│Marketing │ │Intellig. │ │  Funnel  │
-│Strategist│ │          │ │ Builder  │
-└──────────┘ └──────────┘ └──────────┘
-       │           │           │
-       └───────────┼───────────┘
-                   ▼
-┌─────────────────────────────────────────────┐
-│          SEO Intelligence                    │
-│    Keywords · GEO/AEO · Google Business      │
-└─────────────────────────────────────────────┘
+     ┌─────────────┼─────────────┬─────────────┐
+     ▼             ▼             ▼             ▼
+┌─────────┐ ┌──────────┐ ┌──────────┐ ┌──────────┐
+│Insurance│ │ Social   │ │   Web    │ │   SEO    │
+│Marketing│ │Intellig. │ │  Funnel  │ │Intellig. │
+│Strategst│ │          │ │ Builder  │ │          │
+└─────────┘ └──────────┘ └──────────┘ └──────────┘
+     │
+     ├─────────────┬─────────────┬─────────────┐
+     ▼             ▼             ▼             ▼
+┌─────────┐ ┌──────────┐ ┌──────────┐ ┌──────────┐
+│  Email  │ │Facebook  │ │WhatsApp  │ │Recruiting│
+│Marketing│ │Strategy  │ │Follow-up │ │  Agents  │
+└─────────┘ └──────────┘ └──────────┘ └──────────┘
 ```
 
 ---
@@ -54,10 +54,14 @@ ATLAS es el orquestador central del sistema de marketing digital para Mario Barr
 | Skill | Archivo | Activar cuando Mario dice... |
 |---|---|---|
 | ATLAS | `agents/orchestrator.md` | Siempre — es el núcleo |
-| Insurance Marketing | `agents/insurance_marketing_strategist.md` | "contenido", "hook", "script", "reel" |
+| Insurance Marketing | `agents/insurance_marketing_strategist.md` | "contenido", "hook", "script", "reel", "ads", "campaña" |
 | Social Intelligence | `agents/social_intelligence.md` | "competencia", "scraping", "analiza @" |
 | Web Funnel Builder | `agents/web_funnel_builder.md` | "landing", "web", "página", "formulario" |
-| SEO Intelligence | `agents/seo_intelligence.md` | "Google", "SEO", "keywords", "ChatGPT" |
+| SEO Intelligence | `agents/seo_intelligence.md` | "Google", "SEO", "keywords", "ChatGPT", "Perplexity" |
+| Email Marketing | `agents/email_marketing.md` | "emails", "correos", "secuencia", "nurturing", "leads por email" |
+| Facebook Strategy | `agents/facebook_strategy.md` | "Facebook", "página de Facebook", "grupos", "live", "Facebook orgánico" |
+| WhatsApp Follow-up | `agents/whatsapp_followup.md` | "WhatsApp", "seguimiento", "lead no contesta", "qué le digo", "cerrar" |
+| Recruiting Agents | `agents/recruiting_agents.md` | "reclutar", "sub-agente", "equipo", "licencia", "nuevo agente" |
 
 ---
 
