@@ -17,16 +17,41 @@ tags: [contexto, mercado, competencia, texas]
 | 3 | Ángulo "no estar bien asesorado" resuena fuerte en mercado hispano | 🔥 Alto |
 | 4 | Facebook es donde está el cliente 50-70 — no Instagram | 📱 Estratégico |
 | 5 | Cuentas nuevas crecen con pocos posts de video — volumen no importa | 📊 Táctico |
+| 6 | Instagram limita hashtags a 5 por post en 2026 — calidad sobre cantidad | 🔥 Alto |
+| 7 | Storytelling emocional (historia de cliente real) = mayor driver de engagement | 🔥 Alto |
+| 8 | Ratio alto (>10x) correlaciona con educación profunda, no con ventas directas | 📊 Táctico |
+| 9 | Cuentas empresariales en español tienen ratio 1.2-1.4x — audiencia no comprometida | 📊 Táctico |
+| 10 | Hook de urgencia médica ("estaba bien, luego se fue") genera máximo engagement | 🔥 Alto |
 
 ---
 
 ## Hashtags con baja competencia en español (alta oportunidad)
 
+### Stack A — Educación (rotar con B y C, máx. 5 por post en 2026)
 ```
-#beneficiosenvidausa
-#auditordeseguros  
+#auditordeseguros
+#beneficiosenvidausa  
 #finalexpenseinspanish
 #segurostexas
+#mariobarreraagente
+```
+
+### Stack B — Comunidad
+```
+#latinostexas
+#hispanohouston
+#familialatina
+#comunidadhispana
+#texaslatinolife
+```
+
+### Stack C — Urgencia/Protección
+```
+#segurostexas
+#finalexpensehispano
+#protecciondefamilia
+#gastosfunebres
+#segurodevida
 ```
 
 ---
@@ -67,12 +92,27 @@ Nicho de Mario = [Español] + [Video/Cara] + [Auditoría] + [Beneficios en Vida]
 
 ---
 
+## Patrones de engagement confirmados por análisis de competidores
+
+| Patrón de contenido | Ratio promedio | Ejemplo en mercado |
+|---|---|---|
+| Storytelling emocional (cliente real) | 3-5% | @insuredbykourt (78x ratio) |
+| Educación disruptiva en video | 2-4% | @iamjamilarobinson (10.8x ratio) |
+| Vida personal auténtica | 1-2% | @celeste_cazares_ (38.8x ratio) |
+| Posts educativos genéricos sin cara | <0.5% | @usallbenefitsgroup (1.2x) |
+| Alto volumen sin estrategia | <0.5% | @amoranteinsurance (1.4x) |
+
+**Conclusión clave:** Calidad + cara visible + emoción > Cantidad + empresa impersonal
+
+---
+
 ## Reportes de investigación
 
 - `output/reports/ranking_competidores_texas_2026-05-28.md`
 - `output/reports/analisis_celeste_cazares_2026-05-28.md`
 - `output/reports/analisis_insuredbykourt_2026-05-28.md`
 - `output/reports/tendencias_mercado_2026-05-29.md` ← más reciente
+- [[analisis-competencia-profundo-2026-05-29]] ← análisis profundo con 6 competidores
 
 ---
 
